@@ -1,7 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Create a cache matrix and determine it's inverse
 
-## Write a short comment describing this function
+## Create a cache matrix
 
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
